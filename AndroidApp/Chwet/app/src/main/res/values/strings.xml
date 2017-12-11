@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chwet</string>
+    <string name="app_title">Chwet Production</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember me</string>
+    <string name="login">Log In</string>
+    <string name="signup">Sign Up</string>
+    <string name="email_format_error">Please, enter a valid email adress</string>
+    <string name="email_or_password_empty">Email and Password cannot be empty</string>
+</resources>
